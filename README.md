@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parteek Kumar</h1>
-<h3 align="center">Skilled React Frontend Engineer with 4+ years of experience in building user-friendly and performant web applications.</h3>
+<h3 align="center">Skilled React Frontend Engineer with 6+ years of experience in building user-friendly and performant web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oberoiparteek&label=Profile%20views&color=0e75b6&style=flat" alt="oberoiparteek" /> </p>
 
